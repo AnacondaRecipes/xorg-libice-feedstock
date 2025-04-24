@@ -39,7 +39,7 @@ requirements:
     - libtool                      # [unix]
   host:
     - xorg-xorgproto
-    - xorg-libx11  # [win]
+    - xorg-libx11                  # [win]
     - xorg-util-macros
     - xorg-xtrans
 
